@@ -1,0 +1,66 @@
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\appsettings.Development.json
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\appsettings.json
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Expense Tracker.staticwebassets.runtime.json
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Expense Tracker.exe
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Expense Tracker.deps.json
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Expense Tracker.runtimeconfig.json
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Expense Tracker.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Expense Tracker.pdb
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Humanizer.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web projects\Expense Tracker\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.csproj.AssemblyReference.cache
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.AssemblyInfoInputs.cache
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.AssemblyInfo.cs
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.csproj.CoreCompileInputs.cache
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cache
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.RazorAssemblyInfo.cache
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.RazorAssemblyInfo.cs
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\staticwebassets\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\staticwebassets\msbuild.build.Expense Tracker.props
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Expense Tracker.props
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Expense Tracker.props
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\staticwebassets.build.json
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\staticwebassets.development.json
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\scopedcss\bundle\Expense Tracker.styles.css
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\scopedcss\projectbundle\Expense Tracker.bundle.scp.css
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.csproj.CopyComplete
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.dll
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\refint\Expense Tracker.dll
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.pdb
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\Expense Tracker.genruntimeconfig.cache
+E:\Web projects\Expense Tracker\obj\Debug\net6.0\ref\Expense Tracker.dll
